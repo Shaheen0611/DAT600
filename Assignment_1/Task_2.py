@@ -1,5 +1,3 @@
-# Modified Python code to print the sorted array
-
 import numpy as np
 import time
 
